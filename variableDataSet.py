@@ -5,4 +5,4 @@
 
 number = 67
 number += 1
-print(type(number))
+print("the number is: " + str(number))
